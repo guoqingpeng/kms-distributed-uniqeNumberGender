@@ -1,2 +1,2 @@
 # kms-distributed-uniqeNumberGender
-分布式唯一编码生成器
+分布式唯一编码生成器，正在开发中......
