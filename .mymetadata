@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="uniqueCodeGender"
+  id="myeclipse.1493277023073"
+  context-root="/uniqueCodeGender"
+  j2ee-spec="6.0"
+  archive="uniqueCodeGender.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
